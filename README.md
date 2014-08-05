@@ -7,7 +7,7 @@ I will keep adding information on what each script does and how to link them tog
 
 1\. <b>keep_one_seq_per_trinity_comp_01_print_data.pl</b>
 
-{{{USAGE: keep_one_seq_per_trinity_comp_01_print_data.pl \<file containing paths to input files\>}}}
+{USAGE: keep_one_seq_per_trinity_comp_01_print_data.pl \<file containing paths to input files\>}
 
 Prints data for each contig, such as its length, features of the similarities to other sequences, number of sequencing coverage dips. It outputs a tab-delimited file and the data for each contig are printed in one line, in a "key:value" format.
 
