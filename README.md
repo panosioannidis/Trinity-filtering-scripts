@@ -19,6 +19,6 @@ This script calculates the score for each contig using the output of the previou
 
 3\. <b>keep_one_seq_per_trinity_comp_03_select_contigs.pl</b>
 
-USAGE: keep_one_seq_per_trinity_comp_03_select_contigs.pl <List of contigs with their scores> <score cutoff>
+USAGE: keep_one_seq_per_trinity_comp_03_select_contigs.pl \<List of contigs with their scores\> \<score cutoff\>
 
 It selects up to one contig per Trinity component, based on the score calculated in the previous step.
